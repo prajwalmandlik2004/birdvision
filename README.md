@@ -7,5 +7,16 @@
 1. **Clone the Repository**:
    Clone the repository and navigate to the project folder.
    ```bash
-   git clone https://github.com/yourusername/product-listing-page.git
-   cd product-listing-page
+   git clone https://github.com/prajwalmandlik2004/birdvision.git
+
+2. **Install Dependencies**
+   Install Dependencies: Install the necessary dependencies using npm.
+   ```bash
+   npm install
+
+3. **Start Application**
+   Start the Application: Run the app on a local development server.
+   ```bash
+   npm start
+   
+4. **Access the App: Open your browser and go to http://localhost:3000 to view the product listing page.**
