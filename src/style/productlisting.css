@@ -33,3 +33,29 @@
   background-color: #cbd5e0;
   cursor: not-allowed;
 }
+
+.header {
+  background-color: #2d3748;;
+  padding: 20px;
+  text-align: center;
+}
+
+.header-title {
+  color: #ffffff;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.footer {
+  background-color: #2d3748;
+  padding: 20px;
+  text-align: center;
+  margin-top: auto;
+}
+
+.footer-text {
+  color: #a0aec0;
+  font-size: 1rem;
+}
+
+
