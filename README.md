@@ -1,4 +1,4 @@
-# E-commerce application using React that fetches product data from the Dummy JSON API - Birdvision Assignment for Frontend Position
+## E-commerce application using React that fetches product data from the Dummy JSON API - Birdvision Assignment for Frontend Position
 
 ## Live Deployed Link : https://ecommerce-birdvision.netlify.app/
 
